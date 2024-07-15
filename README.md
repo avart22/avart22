@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avart
-- 📫 Reach me at 22avart@gmail.com or +91-9939333919
-- 
+- 📫 Reach me at 22avart@gmail.com
+- You can also reach me at +91-9939333919
 
 <!---
 avart22/avart22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
