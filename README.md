@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Avart
 - 📫 Reach me at 22avart@gmail.com or +91-9939333919
-
 - 
 - # SQL_Project_Music_Store_Analysis
 SQL project to analyze online music store data
